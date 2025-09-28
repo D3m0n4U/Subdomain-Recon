@@ -173,12 +173,3 @@ CSV columns:
 ## License
 
 Use as you like. No warranty. If you improve it, consider submitting changes or open an issue.
-
----
-
-If you want, I can:
-- add `per-host source` tracking to the CSV,
-- add SecurityTrails / VirusTotal enrichment (you provide API keys), or
-- convert outputs into Burp `targets.txt`/scope format.
-
-Which would you like next?
